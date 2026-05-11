@@ -29,3 +29,14 @@ Customer churn impacts business revenue and customer retention. This project ide
 
 ## Conclusion
 This analysis demonstrates how data analysis can support customer retention strategies and business decision-making.
+
+## Project Screenshots
+
+### Customer Churn Distribution
+![Churn Distribution](churn_distribution.png)
+
+### Contract Type Analysis
+![Contract Analysis](contract_analysis.png)
+
+### Key Insights
+![Key Insights](key_insights.png)
