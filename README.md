@@ -40,3 +40,12 @@ This analysis demonstrates how data analysis can support customer retention stra
 
 ### Key Insights
 ![Key Insights](key_insights.png)
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Insights
+- Customer Churn Analysis
+- Python Programming
